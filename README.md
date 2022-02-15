@@ -16,3 +16,5 @@ Almost all codes have been inspired by code institute’s portfolio one course w
 Google has been a source of some texts settings.
 
 Codes for Social media sights have been created, but no media pages have been created since this is just a test exam page.
+
+The site is hosted on github which is the cloud platform supported by code instute.
